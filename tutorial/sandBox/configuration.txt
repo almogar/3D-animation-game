@@ -1,0 +1,5 @@
+C:\Users\alina\source\repos\EngineForAnimationCourse\tutorial\data\zcylinder.obj
+C:\Users\alina\source\repos\EngineForAnimationCourse\tutorial\data\zcylinder.obj
+C:\Users\alina\source\repos\EngineForAnimationCourse\tutorial\data\zcylinder.obj
+C:\Users\alina\source\repos\EngineForAnimationCourse\tutorial\data\zcylinder.obj
+C:\Users\alina\source\repos\EngineForAnimationCourse\tutorial\data\sphere.obj
